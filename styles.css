@@ -2,7 +2,7 @@
 	background-color:rgb(0,0,0);
 	color:rgb(255, 255, 255);
 	border-radius:5px;
-	border:none;
+	border:0px;
 }
 .submit-btn:hover{
 	background-color:yellow;
