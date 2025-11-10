@@ -1,10 +1,10 @@
-.submit-btn{
+#btn{
 	background-color:rgb(0,0,0);
 	color:rgb(255, 255, 255);
 	border-radius:5px;
-	border:0px;
+	border:0px #fff;
 }
-.submit-btn:hover{
+#btn:hover{
 	background-color:yellow;
 	color:rgb(0,0,0);
 	border-radius:30px;
